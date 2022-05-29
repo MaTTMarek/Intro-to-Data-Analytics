@@ -2,8 +2,7 @@
 
 # Microsoft Excel
 
-### The data analyst course at CareerFoundry was project-based. For starting the course, I did the following project:
-### GameCo
+### The first task in the Careerfoundry course was to analyze the game market for GameCo
 ### Objective
 
 ### Analyze how GameCo‘s new games might fare in the market
